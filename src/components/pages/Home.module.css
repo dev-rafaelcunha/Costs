@@ -28,6 +28,7 @@
     margin: 2em 0;
 }
 
+/* RESPONSIVIDADE */
 @media (max-width: 1200px) {
 
     .home_container {

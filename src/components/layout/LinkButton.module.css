@@ -10,6 +10,7 @@
     color: #ffbb33;
 }
 
+/* RESPONSIVIDADE */
 @media (max-width: 1200px) {
 
     .btn {
