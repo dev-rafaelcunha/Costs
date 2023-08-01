@@ -27,3 +27,32 @@
     width: 350px;
     margin: 2em 0;
 }
+
+@media (max-width: 1200px) {
+
+    .home_container {
+        padding-top: 8.4em;
+    }
+
+    .home_container h1 {
+        font-size: 0.9em;
+        margin-bottom: .5em;
+    }
+    
+    .home_container h1 span {
+        color: #ffbb33;
+        padding: 0 0.2em;
+        background-color: #222;
+    }
+    
+    .home_container p {
+        margin-bottom: 1.5em;
+        color: #7b7b7b;
+        font-size: 0.7em;
+    }
+    
+    .home_container img {
+        width: 180px;
+        margin: 2em 0;
+    }
+}
