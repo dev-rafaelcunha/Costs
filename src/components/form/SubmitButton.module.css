@@ -11,3 +11,10 @@
 .btn:hover {
     color: #ffbb33;
 }
+
+@media (max-width: 1200px) {
+
+    .btn {
+        font-size: 0.6em;
+    }
+}

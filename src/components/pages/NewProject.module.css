@@ -11,3 +11,22 @@
 .newproject_container p {
     color: #7b7b7b;
 }
+
+@media (max-width: 1200px) {
+
+    .newproject_container {
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+        justify-content: center;
+        padding-top: 9.2em;
+    }
+
+    .newproject_container h1 {
+        font-size: 0.9em;
+    }
+    
+    .newproject_container p {
+        font-size: 0.7em;
+    }
+}

@@ -18,3 +18,14 @@
 .form_control input::placeholder {
     color: #7b7b7b;
 }
+
+@media (max-width: 1200px) {
+
+    .form_control label {
+        font-size: .8em;
+    }
+
+    .form_control input::placeholder {
+        font-size: .8em;
+    }
+}

@@ -14,3 +14,23 @@
     border-radius: 0;
     border: none;
 }
+
+@media (max-width: 1200px) {
+
+    .form_control label {
+        font-size: .8em;
+    }
+    
+    .form_control select {
+        padding: 0.2em;
+        font-size: .7em;
+    }
+
+    .form_control option {
+        font-size: .8em;
+    }
+
+    .form_control input {
+        font-size: .7em;
+    }
+}
