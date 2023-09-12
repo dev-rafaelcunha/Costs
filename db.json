@@ -7,7 +7,7 @@
         "id": "2",
         "name": "Desenvolvimento"
       },
-      "cost": 400,
+      "cost": 1000,
       "services": [
         {
           "name": "Faz isso aqui",
@@ -23,6 +23,16 @@
           "name": "Produção 02",
           "cost": "200",
           "id": "ccf731f9-3675-4df1-8162-3d54aa1b8709"
+        },
+        {
+          "name": "Vai criar função de envio de e-mails",
+          "cost": "500",
+          "id": "574a42df-258f-4906-8b1d-a5ec0128fb32"
+        },
+        {
+          "name": "Teste",
+          "cost": "100",
+          "id": "0564e12a-9f2d-459b-bab9-bce4d23197b6"
         }
       ],
       "id": 1
