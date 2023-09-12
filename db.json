@@ -7,8 +7,24 @@
         "id": "2",
         "name": "Desenvolvimento"
       },
-      "cost": 0,
-      "services": [],
+      "cost": 400,
+      "services": [
+        {
+          "name": "Faz isso aqui",
+          "cost": "100",
+          "id": "f47f5fa7-0f12-4f35-9d8c-d5ac097819e9"
+        },
+        {
+          "name": "Meu novo serviço 2",
+          "cost": "100",
+          "id": "b32f4929-6f37-4bb6-86e8-3977b532c4ab"
+        },
+        {
+          "name": "Produção 02",
+          "cost": "200",
+          "id": "ccf731f9-3675-4df1-8162-3d54aa1b8709"
+        }
+      ],
       "id": 1
     },
     {
